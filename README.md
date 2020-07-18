@@ -1,2 +1,2 @@
 # JoinUI
-Plugin Pertama Gw Coy , Maap Kalo Nup Ajg
+Plugin Pertama Gw Coy , Maap Kalo Nup Ajg hayuuk
