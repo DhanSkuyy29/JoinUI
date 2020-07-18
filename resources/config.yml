@@ -1,1 +1,32 @@
 
+---
+
+##Plugin By Dhantod / DhanSkuyy:v
+
+# Gunakan "\n" Untuk Line Baru
+
+# Gunakan "§" Untuk Pewarnaan Tulisan Dan Simbol
+
+# Gunakan "{name}" Untuk Mengetahui Nama Player
+
+# JoinUI Title
+
+Title: "Plugin By DhanSkuyy"
+
+# Deskripsi JoinUI
+
+Content: "§bHalo §a{name} §bDi Server!\n§6Plugin By DhanSkuyy\n§eKamu Bisa Edit Deskripi JoinUI di config.yml"
+
+#Button Of The Menu
+
+Button: "§cOkay"
+
+#Message To The Player When Joined The Server!
+
+welcome-message: "§eHalo, §a{name} \n§cKamu Bisa Edit Pesan Ini Di File §dconfig.yml"
+
+#Subscribe Yutub Gw Woii @Skuyy CHッ
+
+#Makasih Loh Dah Pakai Pl Gw:v Btw Ini Pl Pertama Gw:v
+
+...
