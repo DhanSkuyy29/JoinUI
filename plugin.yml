@@ -1,0 +1,8 @@
+---
+name: JoinUI-Master
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+main: JoinUI\Main
+author: DhanSkuyy
+github: github.com/DhanSkuyy29
+...
